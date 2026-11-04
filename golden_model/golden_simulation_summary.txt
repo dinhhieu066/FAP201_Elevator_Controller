@@ -1,0 +1,26 @@
+=========================================================================
+               GOLDEN MODEL SIMULATION SUMMARY REPORT                    
+=========================================================================
+Total Simulation Cycles: 550
+Number of Floors: 4 (Floor 1 to Floor 4)
+Timing Parameters: Move=10 ticks, DoorOpen=10 ticks, DoorClose=4 ticks
+
+State Distribution:
+  - IDLE        :    74 cycles (13.45%)
+  - MOVING_UP   :   110 cycles (20.00%)
+  - MOVING_DOWN :    94 cycles (17.09%)
+  - DOOR_OPEN   :   196 cycles (35.64%)
+  - DOOR_CLOSING:    72 cycles (13.09%)
+  - EMERGENCY   :     4 cycles ( 0.73%)
+
+First 10 cycles sample:
+  Cycle   0: rst=0 req=0000 -> Floor=1 State=IDLE       Door=0 Dir=0
+  Cycle   1: rst=0 req=0000 -> Floor=1 State=IDLE       Door=0 Dir=0
+  Cycle   2: rst=0 req=0000 -> Floor=1 State=IDLE       Door=0 Dir=0
+  Cycle   3: rst=0 req=0000 -> Floor=1 State=IDLE       Door=0 Dir=0
+  Cycle   4: rst=0 req=0000 -> Floor=1 State=IDLE       Door=0 Dir=0
+  Cycle   5: rst=1 req=0000 -> Floor=1 State=IDLE       Door=0 Dir=0
+  Cycle   6: rst=1 req=0000 -> Floor=1 State=IDLE       Door=0 Dir=0
+  Cycle   7: rst=1 req=0000 -> Floor=1 State=IDLE       Door=0 Dir=0
+  Cycle   8: rst=1 req=0000 -> Floor=1 State=IDLE       Door=0 Dir=0
+  Cycle   9: rst=1 req=0000 -> Floor=1 State=IDLE       Door=0 Dir=0
