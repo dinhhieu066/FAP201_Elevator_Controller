@@ -16,3 +16,9 @@ Thumbs.db
 .DS_Store
 *.zip
 
+# Bulky course reference slides and kit documentation
+Docs/Slides/
+Docs/FAP201_Lab/
+Docs/Learning_Resource_Repository_FAP201_IC/
+
+
