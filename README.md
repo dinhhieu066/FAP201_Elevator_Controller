@@ -287,3 +287,6 @@ Quy trình sẽ tự động thực hiện 3 bước:
 * **Môn học:** FAP201 - IC Design & FPGA Programming
 * **Trường:** Đại học FPT (FPT University)
 * **Đề tài:** Elevator Controller (Bộ điều khiển thang máy đa tầng)
+## Chạy Golden Model
+
+python golden_model/run_golden_model.py
