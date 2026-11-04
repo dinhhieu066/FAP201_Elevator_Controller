@@ -1,0 +1,6 @@
+Các yêu cần PHẢI có trong báo cáo FAP
+*Dùng python mathlab để sinh ra testcase
+
+1. Golden model
+2. Thiết kế RTL phải có: top down, test bench
+-> Đẩy lên github (testbench, golden model, README.md)

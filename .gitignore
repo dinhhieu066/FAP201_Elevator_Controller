@@ -1,0 +1,18 @@
+# ModelSim / EDA simulation artifacts
+work/
+work_test/
+transcript
+modelsim.ini
+*.vcd
+*.wlf
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS generated files
+Thumbs.db
+.DS_Store
+*.zip
+
